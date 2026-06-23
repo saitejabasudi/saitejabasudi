@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<img width="740" height="415" alt="Image" src="https://github.com/user-attachments/assets/f84df57d-dc55-4601-98f5-c782eb98b4a7" />
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
