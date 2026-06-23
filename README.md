@@ -17,6 +17,22 @@
 - ⚡ Fun fact: I enjoy transforming simple ideas into real-world solutions.
 
 <img width="740" height="415" alt="Image" src="https://github.com/user-attachments/assets/6ed0e0df-47dd-47ec-ad4e-d1f89d58210b" />
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="YOUR_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="YOUR_LEETCODE_LINK">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
