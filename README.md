@@ -1,5 +1,7 @@
 ## HELLO, WORLD 👋
 
+<img width="1983" height="793" alt="Image" src="https://github.com/user-attachments/assets/4836cc6a-6421-4414-8c86-43068f000ab5" />
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Saiteja+%F0%9F%91%8B;Passionate+Frontend+%26+Web+Developer;Focused+on+building+innovative+AI-powered+applications;Creating+scalable+web+solutions+that+solve+real-world+problems" alt="Typing SVG" />
 </p>
