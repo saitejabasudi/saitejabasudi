@@ -6,6 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Saiteja+%F0%9F%91%8B;Passionate+Frontend+%26+Web+Developer;Focused+on+building+innovative+AI-powered+applications;Creating+scalable+web+solutions+that+solve+real-world+problems" alt="Typing SVG" />
 </p>
 
+## About Me
+
+- 👋 I'm Saiteja, a passionate student developer and aspiring Frontend developer.
+- 💻 Focused on Frontend Development, Web Development, and modern user experiences.
+- 🤖 Exploring AI-powered applications and innovative technologies.
+- 🚀 Building scalable and real-world web solutions.
+- 🌱 Continuously learning new technologies and improving my skills.
+- 💡 I don't just learn concepts — I turn ideas into working products.
+- ⚡ Fun fact: I enjoy transforming simple ideas into real-world solutions.
+
 <img width="740" height="415" alt="Image" src="https://github.com/user-attachments/assets/6ed0e0df-47dd-47ec-ad4e-d1f89d58210b" />
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
