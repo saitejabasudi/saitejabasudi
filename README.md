@@ -1,7 +1,16 @@
 ## HELLO, WORLD 👋
 
+<h1 align="center">Hi, I'm Saiteja 👋</h1>
 
-<img width="740" height="415" alt="Image" src="https://github.com/user-attachments/assets/f84df57d-dc55-4601-98f5-c782eb98b4a7" />
+<p align="center">
+Passionate Frontend & Web Developer focused on building innovative, AI-powered, and scalable web applications that turn ideas into real-world solutions.
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+&+Web+Developer;Building+AI-Powered+Apps;Turning+Ideas+Into+Reality;Always+Learning+and+Building" alt="Typing SVG" />
+</a>
+</p>
+
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
