@@ -1,14 +1,6 @@
-## HELLO, WORLD 👋
-
-<h1 align="center">Hi, I'm Saiteja 👋</h1>
-
+I## HELLO, WORLD 👋
 <p align="center">
-Passionate Frontend & Web Developer focused on building innovative, AI-powered, and scalable web applications that turn ideas into real-world solutions.
-</p>
-<p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1500&color=36BCF7&center=true&vCenter=true&width=700&lines=Frontend+Developer+&+Web+Developer;Building+AI-Powered+Apps;Turning+Ideas+Into+Reality;Always+Learning+and+Building" alt="Typing SVG" />
-</a>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=140&lines=++++++++++++Hi%2C+I'm+Saiteja+%F0%9F%91%8B%0A+++++Passionate+Frontend+%26+Web+Developer%0A++++Building+innovative%2C+AI-powered+and+scalable+web+applications%0A++++++++Turning+ideas+into+real-world+solutions." />
 </p>
 
 <!--
