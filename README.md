@@ -84,7 +84,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saitejabasudi&theme=tokyo-night&hide_border=true" />
 </p>
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph-dark.svg">
