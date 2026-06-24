@@ -77,6 +77,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=saitejabasudi&theme=tokyonight&hide_border=true" />
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saitejabasudi&theme=tokyo-night&hide_border=true" />
+</p>
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
