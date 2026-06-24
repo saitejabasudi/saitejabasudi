@@ -84,6 +84,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saitejabasudi&theme=tokyo-night&hide_border=true" />
 </p>
 
+## ❤️ Thanks for Visiting
+
+<p align="center">
+  <img src="./gitartwork.svg" alt="GitArtWork">
+</p>
 
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
