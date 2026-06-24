@@ -84,11 +84,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saitejabasudi&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🐍 Pac-Man Contribution Graph
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saitejabasudi/saitejabasudi/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
-</p>
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
