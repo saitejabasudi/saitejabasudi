@@ -91,6 +91,15 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vinicius-granco/vinicius-granco/output/pacman-contribution-graph.svg">
 </picture>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=40&duration=120&pause=2000&color=36BCF7&center=true&vCenter=true&width=1000&lines=THANKS+FOR+VISITING+MY+PROFILE" />
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
