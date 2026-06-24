@@ -71,6 +71,12 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saitejabasudi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saitejabasudi&theme=tokyonight&hide_border=true" />
+</p>
 <!--
 **saitejabasudi/saitejabasudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
